@@ -1,54 +1,54 @@
 @import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@700&family=Varela+Round&display=swap");
 
 body {
-  /* font-family: 'Oxygen', sans-serif; */
-  font-family: 'Varela Round', sans-serif;
+    /* font-family: 'Oxygen', sans-serif; */
+    font-family: 'Varela Round', sans-serif;
 }
 
-/********Link style********/
+/******** Link style ********/
 
 .link-border {
-  border: 2px solid #155eb5;
+    border: 2px solid #155eb5;
 }
 
-/********Button style********/
+/******** Button style ********/
 
 .btn-blue {
     color: #fff;
-    background-color: #155eb5;
-    border-color: #155eb5;
+    background-color:  #155eb5;
+    border-color:  #155eb5;
 }
 
-/********Background style********/
+/******** Background style ********/
 
 .bg-color {
-  background-color: rgba(21,81,181,0.7) ;
-  height: 700px;
+    background-color: rgba(21,81,181,0.7) ;
+    height: 700px;
 }
 
-/********Text style********/
+/******** Text style ********/
 .text-blue {
-  color: #155eb5;
-}
+    color: #155eb5;
+} 
 
 .text-light-blue {
-  color: #4a80c2;
+    color: #4a80c2;
 }
 
 
 /********Font style********/
 .font-bold {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 /********Border style********/
 .border-bottom {
-  border-bottom: 2px solid #155eb5;
+    border-bottom: 2px solid #155eb5;
 }
 
 /********Border style********/
 .center {
-  text-align: center;
+    text-align: center;
 }
 
 
