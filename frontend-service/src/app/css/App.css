@@ -15,38 +15,39 @@ body {
 
 .btn-blue {
   color: #fff;
-  background-color:  #155eb5;
-  border-color:  #155eb5;
+  background-color:#155eb5;
+  border-color: #155eb5;
 }
 
 /******** Background style ********/
 
 .bg-color {
-  background-color: rgba(21,81,181,0.7) ;
+  background-color: rgba(21, 81, 181, 0.7) ;
   height: 700px;
 }
 
 /******** Text style ********/
 .text-blue {
   color: #155eb5;
-} 
+}
 
 .text-light-blue {
   color: #4a80c2;
 }
 
+/******** Font style ********/
 
-/********Font style********/
 .font-bold {
   font-weight: bold;
 }
 
-/********Border style********/
+/******** Border style ********/
+
 .border-bottom {
   border-bottom: 2px solid #155eb5;
 }
 
-/********Border style********/
+/******** Postion Style ********/
 .center {
   text-align: center;
 }
