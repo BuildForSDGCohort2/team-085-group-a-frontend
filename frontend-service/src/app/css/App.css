@@ -15,14 +15,14 @@ body {
 
 .btn-blue {
   color: #fff;
-  background-color:#155eb5;
+  background-color: #155eb5;
   border-color: #155eb5;
 }
 
 /******** Background style ********/
 
 .bg-color {
-  background-color: rgba(21, 81, 181, 0.7) ;
+  background-color: rgba(21, 81, 181, 0.7);
   height: 700px;
 }
 
